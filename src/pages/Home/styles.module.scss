@@ -1,0 +1,26 @@
+.homeWrapper {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.formWrapper {
+    width: 100%;
+    max-width: 540px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.homeTitle {
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 24px;
+}
+
+.inputlabel {
+    padding: 8px 0 0 8px;
+    font-weight: 600;
+}
